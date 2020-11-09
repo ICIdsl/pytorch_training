@@ -2,9 +2,9 @@
 ==============================
 This repository provides a modular base to train CNNs using Pytorch. The list of files in the directory and their functions are described below. 
 
-For details on:<br/>
-    - **MuPPET: Multi-precision policy enforced training**: https://github.com/ICIdsl/muppet.git 
-    - **Now that I can see, I can improve: Enabling data-drive finetuning on CNNs on the edge**: https://github.com/ICIdsl/pruning.git 
+For details on:
+- **MuPPET: Multi-precision policy enforced training**: https://github.com/ICIdsl/muppet.git 
+- **Now that I can see, I can improve: Enabling data-drive finetuning on CNNs on the edge**: https://github.com/ICIdsl/pruning.git 
 
 pytorch\_training.yml
 -----------------------
